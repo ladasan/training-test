@@ -2,7 +2,8 @@
   "mappings": [
     "/content/my-first-site/:/",
     "/content/my-first-site/configuration:/.helix/config.json",
-    "/content/my-first-site/metadata:/metadata.json"
+    "/content/my-first-site/metadata:/metadata.json",
+    "/content/my-first-site/redirects:/redirects.json"
   ],
   "includes": [
     "/content/my-first-site/"
